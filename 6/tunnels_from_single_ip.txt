@@ -1,0 +1,3000 @@
+crypto disec conn t10001
+ alg encryption
+ id 10001
+ local ip 172.16.0.1
+ remote ip 172.16.1.0
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.0/32 
+
+crypto disec enable conn t10001
+
+crypto disec conn t10002
+ alg encryption
+ id 10002
+ local ip 172.16.0.1
+ remote ip 172.16.1.1
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.1/32 
+
+crypto disec enable conn t10002
+
+crypto disec conn t10003
+ alg encryption
+ id 10003
+ local ip 172.16.0.1
+ remote ip 172.16.1.2
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.2/32 
+
+crypto disec enable conn t10003
+
+crypto disec conn t10004
+ alg encryption
+ id 10004
+ local ip 172.16.0.1
+ remote ip 172.16.1.3
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.3/32 
+
+crypto disec enable conn t10004
+
+crypto disec conn t10005
+ alg encryption
+ id 10005
+ local ip 172.16.0.1
+ remote ip 172.16.1.4
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.4/32 
+
+crypto disec enable conn t10005
+
+crypto disec conn t10006
+ alg encryption
+ id 10006
+ local ip 172.16.0.1
+ remote ip 172.16.1.5
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.5/32 
+
+crypto disec enable conn t10006
+
+crypto disec conn t10007
+ alg encryption
+ id 10007
+ local ip 172.16.0.1
+ remote ip 172.16.1.6
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.6/32 
+
+crypto disec enable conn t10007
+
+crypto disec conn t10008
+ alg encryption
+ id 10008
+ local ip 172.16.0.1
+ remote ip 172.16.1.7
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.7/32 
+
+crypto disec enable conn t10008
+
+crypto disec conn t10009
+ alg encryption
+ id 10009
+ local ip 172.16.0.1
+ remote ip 172.16.1.8
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.8/32 
+
+crypto disec enable conn t10009
+
+crypto disec conn t10010
+ alg encryption
+ id 10010
+ local ip 172.16.0.1
+ remote ip 172.16.1.9
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.9/32 
+
+crypto disec enable conn t10010
+
+crypto disec conn t10011
+ alg encryption
+ id 10011
+ local ip 172.16.0.1
+ remote ip 172.16.1.10
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.10/32 
+
+crypto disec enable conn t10011
+
+crypto disec conn t10012
+ alg encryption
+ id 10012
+ local ip 172.16.0.1
+ remote ip 172.16.1.11
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.11/32 
+
+crypto disec enable conn t10012
+
+crypto disec conn t10013
+ alg encryption
+ id 10013
+ local ip 172.16.0.1
+ remote ip 172.16.1.12
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.12/32 
+
+crypto disec enable conn t10013
+
+crypto disec conn t10014
+ alg encryption
+ id 10014
+ local ip 172.16.0.1
+ remote ip 172.16.1.13
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.13/32 
+
+crypto disec enable conn t10014
+
+crypto disec conn t10015
+ alg encryption
+ id 10015
+ local ip 172.16.0.1
+ remote ip 172.16.1.14
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.14/32 
+
+crypto disec enable conn t10015
+
+crypto disec conn t10016
+ alg encryption
+ id 10016
+ local ip 172.16.0.1
+ remote ip 172.16.1.15
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.15/32 
+
+crypto disec enable conn t10016
+
+crypto disec conn t10017
+ alg encryption
+ id 10017
+ local ip 172.16.0.1
+ remote ip 172.16.1.16
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.16/32 
+
+crypto disec enable conn t10017
+
+crypto disec conn t10018
+ alg encryption
+ id 10018
+ local ip 172.16.0.1
+ remote ip 172.16.1.17
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.17/32 
+
+crypto disec enable conn t10018
+
+crypto disec conn t10019
+ alg encryption
+ id 10019
+ local ip 172.16.0.1
+ remote ip 172.16.1.18
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.18/32 
+
+crypto disec enable conn t10019
+
+crypto disec conn t10020
+ alg encryption
+ id 10020
+ local ip 172.16.0.1
+ remote ip 172.16.1.19
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.19/32 
+
+crypto disec enable conn t10020
+
+crypto disec conn t10021
+ alg encryption
+ id 10021
+ local ip 172.16.0.1
+ remote ip 172.16.1.20
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.20/32 
+
+crypto disec enable conn t10021
+
+crypto disec conn t10022
+ alg encryption
+ id 10022
+ local ip 172.16.0.1
+ remote ip 172.16.1.21
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.21/32 
+
+crypto disec enable conn t10022
+
+crypto disec conn t10023
+ alg encryption
+ id 10023
+ local ip 172.16.0.1
+ remote ip 172.16.1.22
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.22/32 
+
+crypto disec enable conn t10023
+
+crypto disec conn t10024
+ alg encryption
+ id 10024
+ local ip 172.16.0.1
+ remote ip 172.16.1.23
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.23/32 
+
+crypto disec enable conn t10024
+
+crypto disec conn t10025
+ alg encryption
+ id 10025
+ local ip 172.16.0.1
+ remote ip 172.16.1.24
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.24/32 
+
+crypto disec enable conn t10025
+
+crypto disec conn t10026
+ alg encryption
+ id 10026
+ local ip 172.16.0.1
+ remote ip 172.16.1.25
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.25/32 
+
+crypto disec enable conn t10026
+
+crypto disec conn t10027
+ alg encryption
+ id 10027
+ local ip 172.16.0.1
+ remote ip 172.16.1.26
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.26/32 
+
+crypto disec enable conn t10027
+
+crypto disec conn t10028
+ alg encryption
+ id 10028
+ local ip 172.16.0.1
+ remote ip 172.16.1.27
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.27/32 
+
+crypto disec enable conn t10028
+
+crypto disec conn t10029
+ alg encryption
+ id 10029
+ local ip 172.16.0.1
+ remote ip 172.16.1.28
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.28/32 
+
+crypto disec enable conn t10029
+
+crypto disec conn t10030
+ alg encryption
+ id 10030
+ local ip 172.16.0.1
+ remote ip 172.16.1.29
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.29/32 
+
+crypto disec enable conn t10030
+
+crypto disec conn t10031
+ alg encryption
+ id 10031
+ local ip 172.16.0.1
+ remote ip 172.16.1.30
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.30/32 
+
+crypto disec enable conn t10031
+
+crypto disec conn t10032
+ alg encryption
+ id 10032
+ local ip 172.16.0.1
+ remote ip 172.16.1.31
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.31/32 
+
+crypto disec enable conn t10032
+
+crypto disec conn t10033
+ alg encryption
+ id 10033
+ local ip 172.16.0.1
+ remote ip 172.16.1.32
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.32/32 
+
+crypto disec enable conn t10033
+
+crypto disec conn t10034
+ alg encryption
+ id 10034
+ local ip 172.16.0.1
+ remote ip 172.16.1.33
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.33/32 
+
+crypto disec enable conn t10034
+
+crypto disec conn t10035
+ alg encryption
+ id 10035
+ local ip 172.16.0.1
+ remote ip 172.16.1.34
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.34/32 
+
+crypto disec enable conn t10035
+
+crypto disec conn t10036
+ alg encryption
+ id 10036
+ local ip 172.16.0.1
+ remote ip 172.16.1.35
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.35/32 
+
+crypto disec enable conn t10036
+
+crypto disec conn t10037
+ alg encryption
+ id 10037
+ local ip 172.16.0.1
+ remote ip 172.16.1.36
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.36/32 
+
+crypto disec enable conn t10037
+
+crypto disec conn t10038
+ alg encryption
+ id 10038
+ local ip 172.16.0.1
+ remote ip 172.16.1.37
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.37/32 
+
+crypto disec enable conn t10038
+
+crypto disec conn t10039
+ alg encryption
+ id 10039
+ local ip 172.16.0.1
+ remote ip 172.16.1.38
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.38/32 
+
+crypto disec enable conn t10039
+
+crypto disec conn t10040
+ alg encryption
+ id 10040
+ local ip 172.16.0.1
+ remote ip 172.16.1.39
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.39/32 
+
+crypto disec enable conn t10040
+
+crypto disec conn t10041
+ alg encryption
+ id 10041
+ local ip 172.16.0.1
+ remote ip 172.16.1.40
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.40/32 
+
+crypto disec enable conn t10041
+
+crypto disec conn t10042
+ alg encryption
+ id 10042
+ local ip 172.16.0.1
+ remote ip 172.16.1.41
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.41/32 
+
+crypto disec enable conn t10042
+
+crypto disec conn t10043
+ alg encryption
+ id 10043
+ local ip 172.16.0.1
+ remote ip 172.16.1.42
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.42/32 
+
+crypto disec enable conn t10043
+
+crypto disec conn t10044
+ alg encryption
+ id 10044
+ local ip 172.16.0.1
+ remote ip 172.16.1.43
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.43/32 
+
+crypto disec enable conn t10044
+
+crypto disec conn t10045
+ alg encryption
+ id 10045
+ local ip 172.16.0.1
+ remote ip 172.16.1.44
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.44/32 
+
+crypto disec enable conn t10045
+
+crypto disec conn t10046
+ alg encryption
+ id 10046
+ local ip 172.16.0.1
+ remote ip 172.16.1.45
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.45/32 
+
+crypto disec enable conn t10046
+
+crypto disec conn t10047
+ alg encryption
+ id 10047
+ local ip 172.16.0.1
+ remote ip 172.16.1.46
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.46/32 
+
+crypto disec enable conn t10047
+
+crypto disec conn t10048
+ alg encryption
+ id 10048
+ local ip 172.16.0.1
+ remote ip 172.16.1.47
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.47/32 
+
+crypto disec enable conn t10048
+
+crypto disec conn t10049
+ alg encryption
+ id 10049
+ local ip 172.16.0.1
+ remote ip 172.16.1.48
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.48/32 
+
+crypto disec enable conn t10049
+
+crypto disec conn t10050
+ alg encryption
+ id 10050
+ local ip 172.16.0.1
+ remote ip 172.16.1.49
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.49/32 
+
+crypto disec enable conn t10050
+
+crypto disec conn t10051
+ alg encryption
+ id 10051
+ local ip 172.16.0.1
+ remote ip 172.16.1.50
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.50/32 
+
+crypto disec enable conn t10051
+
+crypto disec conn t10052
+ alg encryption
+ id 10052
+ local ip 172.16.0.1
+ remote ip 172.16.1.51
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.51/32 
+
+crypto disec enable conn t10052
+
+crypto disec conn t10053
+ alg encryption
+ id 10053
+ local ip 172.16.0.1
+ remote ip 172.16.1.52
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.52/32 
+
+crypto disec enable conn t10053
+
+crypto disec conn t10054
+ alg encryption
+ id 10054
+ local ip 172.16.0.1
+ remote ip 172.16.1.53
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.53/32 
+
+crypto disec enable conn t10054
+
+crypto disec conn t10055
+ alg encryption
+ id 10055
+ local ip 172.16.0.1
+ remote ip 172.16.1.54
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.54/32 
+
+crypto disec enable conn t10055
+
+crypto disec conn t10056
+ alg encryption
+ id 10056
+ local ip 172.16.0.1
+ remote ip 172.16.1.55
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.55/32 
+
+crypto disec enable conn t10056
+
+crypto disec conn t10057
+ alg encryption
+ id 10057
+ local ip 172.16.0.1
+ remote ip 172.16.1.56
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.56/32 
+
+crypto disec enable conn t10057
+
+crypto disec conn t10058
+ alg encryption
+ id 10058
+ local ip 172.16.0.1
+ remote ip 172.16.1.57
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.57/32 
+
+crypto disec enable conn t10058
+
+crypto disec conn t10059
+ alg encryption
+ id 10059
+ local ip 172.16.0.1
+ remote ip 172.16.1.58
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.58/32 
+
+crypto disec enable conn t10059
+
+crypto disec conn t10060
+ alg encryption
+ id 10060
+ local ip 172.16.0.1
+ remote ip 172.16.1.59
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.59/32 
+
+crypto disec enable conn t10060
+
+crypto disec conn t10061
+ alg encryption
+ id 10061
+ local ip 172.16.0.1
+ remote ip 172.16.1.60
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.60/32 
+
+crypto disec enable conn t10061
+
+crypto disec conn t10062
+ alg encryption
+ id 10062
+ local ip 172.16.0.1
+ remote ip 172.16.1.61
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.61/32 
+
+crypto disec enable conn t10062
+
+crypto disec conn t10063
+ alg encryption
+ id 10063
+ local ip 172.16.0.1
+ remote ip 172.16.1.62
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.62/32 
+
+crypto disec enable conn t10063
+
+crypto disec conn t10064
+ alg encryption
+ id 10064
+ local ip 172.16.0.1
+ remote ip 172.16.1.63
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.63/32 
+
+crypto disec enable conn t10064
+
+crypto disec conn t10065
+ alg encryption
+ id 10065
+ local ip 172.16.0.1
+ remote ip 172.16.1.64
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.64/32 
+
+crypto disec enable conn t10065
+
+crypto disec conn t10066
+ alg encryption
+ id 10066
+ local ip 172.16.0.1
+ remote ip 172.16.1.65
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.65/32 
+
+crypto disec enable conn t10066
+
+crypto disec conn t10067
+ alg encryption
+ id 10067
+ local ip 172.16.0.1
+ remote ip 172.16.1.66
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.66/32 
+
+crypto disec enable conn t10067
+
+crypto disec conn t10068
+ alg encryption
+ id 10068
+ local ip 172.16.0.1
+ remote ip 172.16.1.67
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.67/32 
+
+crypto disec enable conn t10068
+
+crypto disec conn t10069
+ alg encryption
+ id 10069
+ local ip 172.16.0.1
+ remote ip 172.16.1.68
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.68/32 
+
+crypto disec enable conn t10069
+
+crypto disec conn t10070
+ alg encryption
+ id 10070
+ local ip 172.16.0.1
+ remote ip 172.16.1.69
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.69/32 
+
+crypto disec enable conn t10070
+
+crypto disec conn t10071
+ alg encryption
+ id 10071
+ local ip 172.16.0.1
+ remote ip 172.16.1.70
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.70/32 
+
+crypto disec enable conn t10071
+
+crypto disec conn t10072
+ alg encryption
+ id 10072
+ local ip 172.16.0.1
+ remote ip 172.16.1.71
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.71/32 
+
+crypto disec enable conn t10072
+
+crypto disec conn t10073
+ alg encryption
+ id 10073
+ local ip 172.16.0.1
+ remote ip 172.16.1.72
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.72/32 
+
+crypto disec enable conn t10073
+
+crypto disec conn t10074
+ alg encryption
+ id 10074
+ local ip 172.16.0.1
+ remote ip 172.16.1.73
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.73/32 
+
+crypto disec enable conn t10074
+
+crypto disec conn t10075
+ alg encryption
+ id 10075
+ local ip 172.16.0.1
+ remote ip 172.16.1.74
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.74/32 
+
+crypto disec enable conn t10075
+
+crypto disec conn t10076
+ alg encryption
+ id 10076
+ local ip 172.16.0.1
+ remote ip 172.16.1.75
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.75/32 
+
+crypto disec enable conn t10076
+
+crypto disec conn t10077
+ alg encryption
+ id 10077
+ local ip 172.16.0.1
+ remote ip 172.16.1.76
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.76/32 
+
+crypto disec enable conn t10077
+
+crypto disec conn t10078
+ alg encryption
+ id 10078
+ local ip 172.16.0.1
+ remote ip 172.16.1.77
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.77/32 
+
+crypto disec enable conn t10078
+
+crypto disec conn t10079
+ alg encryption
+ id 10079
+ local ip 172.16.0.1
+ remote ip 172.16.1.78
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.78/32 
+
+crypto disec enable conn t10079
+
+crypto disec conn t10080
+ alg encryption
+ id 10080
+ local ip 172.16.0.1
+ remote ip 172.16.1.79
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.79/32 
+
+crypto disec enable conn t10080
+
+crypto disec conn t10081
+ alg encryption
+ id 10081
+ local ip 172.16.0.1
+ remote ip 172.16.1.80
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.80/32 
+
+crypto disec enable conn t10081
+
+crypto disec conn t10082
+ alg encryption
+ id 10082
+ local ip 172.16.0.1
+ remote ip 172.16.1.81
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.81/32 
+
+crypto disec enable conn t10082
+
+crypto disec conn t10083
+ alg encryption
+ id 10083
+ local ip 172.16.0.1
+ remote ip 172.16.1.82
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.82/32 
+
+crypto disec enable conn t10083
+
+crypto disec conn t10084
+ alg encryption
+ id 10084
+ local ip 172.16.0.1
+ remote ip 172.16.1.83
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.83/32 
+
+crypto disec enable conn t10084
+
+crypto disec conn t10085
+ alg encryption
+ id 10085
+ local ip 172.16.0.1
+ remote ip 172.16.1.84
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.84/32 
+
+crypto disec enable conn t10085
+
+crypto disec conn t10086
+ alg encryption
+ id 10086
+ local ip 172.16.0.1
+ remote ip 172.16.1.85
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.85/32 
+
+crypto disec enable conn t10086
+
+crypto disec conn t10087
+ alg encryption
+ id 10087
+ local ip 172.16.0.1
+ remote ip 172.16.1.86
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.86/32 
+
+crypto disec enable conn t10087
+
+crypto disec conn t10088
+ alg encryption
+ id 10088
+ local ip 172.16.0.1
+ remote ip 172.16.1.87
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.87/32 
+
+crypto disec enable conn t10088
+
+crypto disec conn t10089
+ alg encryption
+ id 10089
+ local ip 172.16.0.1
+ remote ip 172.16.1.88
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.88/32 
+
+crypto disec enable conn t10089
+
+crypto disec conn t10090
+ alg encryption
+ id 10090
+ local ip 172.16.0.1
+ remote ip 172.16.1.89
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.89/32 
+
+crypto disec enable conn t10090
+
+crypto disec conn t10091
+ alg encryption
+ id 10091
+ local ip 172.16.0.1
+ remote ip 172.16.1.90
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.90/32 
+
+crypto disec enable conn t10091
+
+crypto disec conn t10092
+ alg encryption
+ id 10092
+ local ip 172.16.0.1
+ remote ip 172.16.1.91
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.91/32 
+
+crypto disec enable conn t10092
+
+crypto disec conn t10093
+ alg encryption
+ id 10093
+ local ip 172.16.0.1
+ remote ip 172.16.1.92
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.92/32 
+
+crypto disec enable conn t10093
+
+crypto disec conn t10094
+ alg encryption
+ id 10094
+ local ip 172.16.0.1
+ remote ip 172.16.1.93
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.93/32 
+
+crypto disec enable conn t10094
+
+crypto disec conn t10095
+ alg encryption
+ id 10095
+ local ip 172.16.0.1
+ remote ip 172.16.1.94
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.94/32 
+
+crypto disec enable conn t10095
+
+crypto disec conn t10096
+ alg encryption
+ id 10096
+ local ip 172.16.0.1
+ remote ip 172.16.1.95
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.95/32 
+
+crypto disec enable conn t10096
+
+crypto disec conn t10097
+ alg encryption
+ id 10097
+ local ip 172.16.0.1
+ remote ip 172.16.1.96
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.96/32 
+
+crypto disec enable conn t10097
+
+crypto disec conn t10098
+ alg encryption
+ id 10098
+ local ip 172.16.0.1
+ remote ip 172.16.1.97
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.97/32 
+
+crypto disec enable conn t10098
+
+crypto disec conn t10099
+ alg encryption
+ id 10099
+ local ip 172.16.0.1
+ remote ip 172.16.1.98
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.98/32 
+
+crypto disec enable conn t10099
+
+crypto disec conn t10100
+ alg encryption
+ id 10100
+ local ip 172.16.0.1
+ remote ip 172.16.1.99
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.99/32 
+
+crypto disec enable conn t10100
+
+crypto disec conn t10101
+ alg encryption
+ id 10101
+ local ip 172.16.0.1
+ remote ip 172.16.1.100
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.100/32 
+
+crypto disec enable conn t10101
+
+crypto disec conn t10102
+ alg encryption
+ id 10102
+ local ip 172.16.0.1
+ remote ip 172.16.1.101
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.101/32 
+
+crypto disec enable conn t10102
+
+crypto disec conn t10103
+ alg encryption
+ id 10103
+ local ip 172.16.0.1
+ remote ip 172.16.1.102
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.102/32 
+
+crypto disec enable conn t10103
+
+crypto disec conn t10104
+ alg encryption
+ id 10104
+ local ip 172.16.0.1
+ remote ip 172.16.1.103
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.103/32 
+
+crypto disec enable conn t10104
+
+crypto disec conn t10105
+ alg encryption
+ id 10105
+ local ip 172.16.0.1
+ remote ip 172.16.1.104
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.104/32 
+
+crypto disec enable conn t10105
+
+crypto disec conn t10106
+ alg encryption
+ id 10106
+ local ip 172.16.0.1
+ remote ip 172.16.1.105
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.105/32 
+
+crypto disec enable conn t10106
+
+crypto disec conn t10107
+ alg encryption
+ id 10107
+ local ip 172.16.0.1
+ remote ip 172.16.1.106
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.106/32 
+
+crypto disec enable conn t10107
+
+crypto disec conn t10108
+ alg encryption
+ id 10108
+ local ip 172.16.0.1
+ remote ip 172.16.1.107
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.107/32 
+
+crypto disec enable conn t10108
+
+crypto disec conn t10109
+ alg encryption
+ id 10109
+ local ip 172.16.0.1
+ remote ip 172.16.1.108
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.108/32 
+
+crypto disec enable conn t10109
+
+crypto disec conn t10110
+ alg encryption
+ id 10110
+ local ip 172.16.0.1
+ remote ip 172.16.1.109
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.109/32 
+
+crypto disec enable conn t10110
+
+crypto disec conn t10111
+ alg encryption
+ id 10111
+ local ip 172.16.0.1
+ remote ip 172.16.1.110
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.110/32 
+
+crypto disec enable conn t10111
+
+crypto disec conn t10112
+ alg encryption
+ id 10112
+ local ip 172.16.0.1
+ remote ip 172.16.1.111
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.111/32 
+
+crypto disec enable conn t10112
+
+crypto disec conn t10113
+ alg encryption
+ id 10113
+ local ip 172.16.0.1
+ remote ip 172.16.1.112
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.112/32 
+
+crypto disec enable conn t10113
+
+crypto disec conn t10114
+ alg encryption
+ id 10114
+ local ip 172.16.0.1
+ remote ip 172.16.1.113
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.113/32 
+
+crypto disec enable conn t10114
+
+crypto disec conn t10115
+ alg encryption
+ id 10115
+ local ip 172.16.0.1
+ remote ip 172.16.1.114
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.114/32 
+
+crypto disec enable conn t10115
+
+crypto disec conn t10116
+ alg encryption
+ id 10116
+ local ip 172.16.0.1
+ remote ip 172.16.1.115
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.115/32 
+
+crypto disec enable conn t10116
+
+crypto disec conn t10117
+ alg encryption
+ id 10117
+ local ip 172.16.0.1
+ remote ip 172.16.1.116
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.116/32 
+
+crypto disec enable conn t10117
+
+crypto disec conn t10118
+ alg encryption
+ id 10118
+ local ip 172.16.0.1
+ remote ip 172.16.1.117
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.117/32 
+
+crypto disec enable conn t10118
+
+crypto disec conn t10119
+ alg encryption
+ id 10119
+ local ip 172.16.0.1
+ remote ip 172.16.1.118
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.118/32 
+
+crypto disec enable conn t10119
+
+crypto disec conn t10120
+ alg encryption
+ id 10120
+ local ip 172.16.0.1
+ remote ip 172.16.1.119
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.119/32 
+
+crypto disec enable conn t10120
+
+crypto disec conn t10121
+ alg encryption
+ id 10121
+ local ip 172.16.0.1
+ remote ip 172.16.1.120
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.120/32 
+
+crypto disec enable conn t10121
+
+crypto disec conn t10122
+ alg encryption
+ id 10122
+ local ip 172.16.0.1
+ remote ip 172.16.1.121
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.121/32 
+
+crypto disec enable conn t10122
+
+crypto disec conn t10123
+ alg encryption
+ id 10123
+ local ip 172.16.0.1
+ remote ip 172.16.1.122
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.122/32 
+
+crypto disec enable conn t10123
+
+crypto disec conn t10124
+ alg encryption
+ id 10124
+ local ip 172.16.0.1
+ remote ip 172.16.1.123
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.123/32 
+
+crypto disec enable conn t10124
+
+crypto disec conn t10125
+ alg encryption
+ id 10125
+ local ip 172.16.0.1
+ remote ip 172.16.1.124
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.124/32 
+
+crypto disec enable conn t10125
+
+crypto disec conn t10126
+ alg encryption
+ id 10126
+ local ip 172.16.0.1
+ remote ip 172.16.1.125
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.125/32 
+
+crypto disec enable conn t10126
+
+crypto disec conn t10127
+ alg encryption
+ id 10127
+ local ip 172.16.0.1
+ remote ip 172.16.1.126
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.126/32 
+
+crypto disec enable conn t10127
+
+crypto disec conn t10128
+ alg encryption
+ id 10128
+ local ip 172.16.0.1
+ remote ip 172.16.1.127
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.127/32 
+
+crypto disec enable conn t10128
+
+crypto disec conn t10129
+ alg encryption
+ id 10129
+ local ip 172.16.0.1
+ remote ip 172.16.1.128
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.128/32 
+
+crypto disec enable conn t10129
+
+crypto disec conn t10130
+ alg encryption
+ id 10130
+ local ip 172.16.0.1
+ remote ip 172.16.1.129
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.129/32 
+
+crypto disec enable conn t10130
+
+crypto disec conn t10131
+ alg encryption
+ id 10131
+ local ip 172.16.0.1
+ remote ip 172.16.1.130
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.130/32 
+
+crypto disec enable conn t10131
+
+crypto disec conn t10132
+ alg encryption
+ id 10132
+ local ip 172.16.0.1
+ remote ip 172.16.1.131
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.131/32 
+
+crypto disec enable conn t10132
+
+crypto disec conn t10133
+ alg encryption
+ id 10133
+ local ip 172.16.0.1
+ remote ip 172.16.1.132
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.132/32 
+
+crypto disec enable conn t10133
+
+crypto disec conn t10134
+ alg encryption
+ id 10134
+ local ip 172.16.0.1
+ remote ip 172.16.1.133
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.133/32 
+
+crypto disec enable conn t10134
+
+crypto disec conn t10135
+ alg encryption
+ id 10135
+ local ip 172.16.0.1
+ remote ip 172.16.1.134
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.134/32 
+
+crypto disec enable conn t10135
+
+crypto disec conn t10136
+ alg encryption
+ id 10136
+ local ip 172.16.0.1
+ remote ip 172.16.1.135
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.135/32 
+
+crypto disec enable conn t10136
+
+crypto disec conn t10137
+ alg encryption
+ id 10137
+ local ip 172.16.0.1
+ remote ip 172.16.1.136
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.136/32 
+
+crypto disec enable conn t10137
+
+crypto disec conn t10138
+ alg encryption
+ id 10138
+ local ip 172.16.0.1
+ remote ip 172.16.1.137
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.137/32 
+
+crypto disec enable conn t10138
+
+crypto disec conn t10139
+ alg encryption
+ id 10139
+ local ip 172.16.0.1
+ remote ip 172.16.1.138
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.138/32 
+
+crypto disec enable conn t10139
+
+crypto disec conn t10140
+ alg encryption
+ id 10140
+ local ip 172.16.0.1
+ remote ip 172.16.1.139
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.139/32 
+
+crypto disec enable conn t10140
+
+crypto disec conn t10141
+ alg encryption
+ id 10141
+ local ip 172.16.0.1
+ remote ip 172.16.1.140
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.140/32 
+
+crypto disec enable conn t10141
+
+crypto disec conn t10142
+ alg encryption
+ id 10142
+ local ip 172.16.0.1
+ remote ip 172.16.1.141
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.141/32 
+
+crypto disec enable conn t10142
+
+crypto disec conn t10143
+ alg encryption
+ id 10143
+ local ip 172.16.0.1
+ remote ip 172.16.1.142
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.142/32 
+
+crypto disec enable conn t10143
+
+crypto disec conn t10144
+ alg encryption
+ id 10144
+ local ip 172.16.0.1
+ remote ip 172.16.1.143
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.143/32 
+
+crypto disec enable conn t10144
+
+crypto disec conn t10145
+ alg encryption
+ id 10145
+ local ip 172.16.0.1
+ remote ip 172.16.1.144
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.144/32 
+
+crypto disec enable conn t10145
+
+crypto disec conn t10146
+ alg encryption
+ id 10146
+ local ip 172.16.0.1
+ remote ip 172.16.1.145
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.145/32 
+
+crypto disec enable conn t10146
+
+crypto disec conn t10147
+ alg encryption
+ id 10147
+ local ip 172.16.0.1
+ remote ip 172.16.1.146
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.146/32 
+
+crypto disec enable conn t10147
+
+crypto disec conn t10148
+ alg encryption
+ id 10148
+ local ip 172.16.0.1
+ remote ip 172.16.1.147
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.147/32 
+
+crypto disec enable conn t10148
+
+crypto disec conn t10149
+ alg encryption
+ id 10149
+ local ip 172.16.0.1
+ remote ip 172.16.1.148
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.148/32 
+
+crypto disec enable conn t10149
+
+crypto disec conn t10150
+ alg encryption
+ id 10150
+ local ip 172.16.0.1
+ remote ip 172.16.1.149
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.149/32 
+
+crypto disec enable conn t10150
+
+crypto disec conn t10151
+ alg encryption
+ id 10151
+ local ip 172.16.0.1
+ remote ip 172.16.1.150
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.150/32 
+
+crypto disec enable conn t10151
+
+crypto disec conn t10152
+ alg encryption
+ id 10152
+ local ip 172.16.0.1
+ remote ip 172.16.1.151
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.151/32 
+
+crypto disec enable conn t10152
+
+crypto disec conn t10153
+ alg encryption
+ id 10153
+ local ip 172.16.0.1
+ remote ip 172.16.1.152
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.152/32 
+
+crypto disec enable conn t10153
+
+crypto disec conn t10154
+ alg encryption
+ id 10154
+ local ip 172.16.0.1
+ remote ip 172.16.1.153
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.153/32 
+
+crypto disec enable conn t10154
+
+crypto disec conn t10155
+ alg encryption
+ id 10155
+ local ip 172.16.0.1
+ remote ip 172.16.1.154
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.154/32 
+
+crypto disec enable conn t10155
+
+crypto disec conn t10156
+ alg encryption
+ id 10156
+ local ip 172.16.0.1
+ remote ip 172.16.1.155
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.155/32 
+
+crypto disec enable conn t10156
+
+crypto disec conn t10157
+ alg encryption
+ id 10157
+ local ip 172.16.0.1
+ remote ip 172.16.1.156
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.156/32 
+
+crypto disec enable conn t10157
+
+crypto disec conn t10158
+ alg encryption
+ id 10158
+ local ip 172.16.0.1
+ remote ip 172.16.1.157
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.157/32 
+
+crypto disec enable conn t10158
+
+crypto disec conn t10159
+ alg encryption
+ id 10159
+ local ip 172.16.0.1
+ remote ip 172.16.1.158
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.158/32 
+
+crypto disec enable conn t10159
+
+crypto disec conn t10160
+ alg encryption
+ id 10160
+ local ip 172.16.0.1
+ remote ip 172.16.1.159
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.159/32 
+
+crypto disec enable conn t10160
+
+crypto disec conn t10161
+ alg encryption
+ id 10161
+ local ip 172.16.0.1
+ remote ip 172.16.1.160
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.160/32 
+
+crypto disec enable conn t10161
+
+crypto disec conn t10162
+ alg encryption
+ id 10162
+ local ip 172.16.0.1
+ remote ip 172.16.1.161
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.161/32 
+
+crypto disec enable conn t10162
+
+crypto disec conn t10163
+ alg encryption
+ id 10163
+ local ip 172.16.0.1
+ remote ip 172.16.1.162
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.162/32 
+
+crypto disec enable conn t10163
+
+crypto disec conn t10164
+ alg encryption
+ id 10164
+ local ip 172.16.0.1
+ remote ip 172.16.1.163
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.163/32 
+
+crypto disec enable conn t10164
+
+crypto disec conn t10165
+ alg encryption
+ id 10165
+ local ip 172.16.0.1
+ remote ip 172.16.1.164
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.164/32 
+
+crypto disec enable conn t10165
+
+crypto disec conn t10166
+ alg encryption
+ id 10166
+ local ip 172.16.0.1
+ remote ip 172.16.1.165
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.165/32 
+
+crypto disec enable conn t10166
+
+crypto disec conn t10167
+ alg encryption
+ id 10167
+ local ip 172.16.0.1
+ remote ip 172.16.1.166
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.166/32 
+
+crypto disec enable conn t10167
+
+crypto disec conn t10168
+ alg encryption
+ id 10168
+ local ip 172.16.0.1
+ remote ip 172.16.1.167
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.167/32 
+
+crypto disec enable conn t10168
+
+crypto disec conn t10169
+ alg encryption
+ id 10169
+ local ip 172.16.0.1
+ remote ip 172.16.1.168
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.168/32 
+
+crypto disec enable conn t10169
+
+crypto disec conn t10170
+ alg encryption
+ id 10170
+ local ip 172.16.0.1
+ remote ip 172.16.1.169
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.169/32 
+
+crypto disec enable conn t10170
+
+crypto disec conn t10171
+ alg encryption
+ id 10171
+ local ip 172.16.0.1
+ remote ip 172.16.1.170
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.170/32 
+
+crypto disec enable conn t10171
+
+crypto disec conn t10172
+ alg encryption
+ id 10172
+ local ip 172.16.0.1
+ remote ip 172.16.1.171
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.171/32 
+
+crypto disec enable conn t10172
+
+crypto disec conn t10173
+ alg encryption
+ id 10173
+ local ip 172.16.0.1
+ remote ip 172.16.1.172
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.172/32 
+
+crypto disec enable conn t10173
+
+crypto disec conn t10174
+ alg encryption
+ id 10174
+ local ip 172.16.0.1
+ remote ip 172.16.1.173
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.173/32 
+
+crypto disec enable conn t10174
+
+crypto disec conn t10175
+ alg encryption
+ id 10175
+ local ip 172.16.0.1
+ remote ip 172.16.1.174
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.174/32 
+
+crypto disec enable conn t10175
+
+crypto disec conn t10176
+ alg encryption
+ id 10176
+ local ip 172.16.0.1
+ remote ip 172.16.1.175
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.175/32 
+
+crypto disec enable conn t10176
+
+crypto disec conn t10177
+ alg encryption
+ id 10177
+ local ip 172.16.0.1
+ remote ip 172.16.1.176
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.176/32 
+
+crypto disec enable conn t10177
+
+crypto disec conn t10178
+ alg encryption
+ id 10178
+ local ip 172.16.0.1
+ remote ip 172.16.1.177
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.177/32 
+
+crypto disec enable conn t10178
+
+crypto disec conn t10179
+ alg encryption
+ id 10179
+ local ip 172.16.0.1
+ remote ip 172.16.1.178
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.178/32 
+
+crypto disec enable conn t10179
+
+crypto disec conn t10180
+ alg encryption
+ id 10180
+ local ip 172.16.0.1
+ remote ip 172.16.1.179
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.179/32 
+
+crypto disec enable conn t10180
+
+crypto disec conn t10181
+ alg encryption
+ id 10181
+ local ip 172.16.0.1
+ remote ip 172.16.1.180
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.180/32 
+
+crypto disec enable conn t10181
+
+crypto disec conn t10182
+ alg encryption
+ id 10182
+ local ip 172.16.0.1
+ remote ip 172.16.1.181
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.181/32 
+
+crypto disec enable conn t10182
+
+crypto disec conn t10183
+ alg encryption
+ id 10183
+ local ip 172.16.0.1
+ remote ip 172.16.1.182
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.182/32 
+
+crypto disec enable conn t10183
+
+crypto disec conn t10184
+ alg encryption
+ id 10184
+ local ip 172.16.0.1
+ remote ip 172.16.1.183
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.183/32 
+
+crypto disec enable conn t10184
+
+crypto disec conn t10185
+ alg encryption
+ id 10185
+ local ip 172.16.0.1
+ remote ip 172.16.1.184
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.184/32 
+
+crypto disec enable conn t10185
+
+crypto disec conn t10186
+ alg encryption
+ id 10186
+ local ip 172.16.0.1
+ remote ip 172.16.1.185
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.185/32 
+
+crypto disec enable conn t10186
+
+crypto disec conn t10187
+ alg encryption
+ id 10187
+ local ip 172.16.0.1
+ remote ip 172.16.1.186
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.186/32 
+
+crypto disec enable conn t10187
+
+crypto disec conn t10188
+ alg encryption
+ id 10188
+ local ip 172.16.0.1
+ remote ip 172.16.1.187
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.187/32 
+
+crypto disec enable conn t10188
+
+crypto disec conn t10189
+ alg encryption
+ id 10189
+ local ip 172.16.0.1
+ remote ip 172.16.1.188
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.188/32 
+
+crypto disec enable conn t10189
+
+crypto disec conn t10190
+ alg encryption
+ id 10190
+ local ip 172.16.0.1
+ remote ip 172.16.1.189
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.189/32 
+
+crypto disec enable conn t10190
+
+crypto disec conn t10191
+ alg encryption
+ id 10191
+ local ip 172.16.0.1
+ remote ip 172.16.1.190
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.190/32 
+
+crypto disec enable conn t10191
+
+crypto disec conn t10192
+ alg encryption
+ id 10192
+ local ip 172.16.0.1
+ remote ip 172.16.1.191
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.191/32 
+
+crypto disec enable conn t10192
+
+crypto disec conn t10193
+ alg encryption
+ id 10193
+ local ip 172.16.0.1
+ remote ip 172.16.1.192
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.192/32 
+
+crypto disec enable conn t10193
+
+crypto disec conn t10194
+ alg encryption
+ id 10194
+ local ip 172.16.0.1
+ remote ip 172.16.1.193
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.193/32 
+
+crypto disec enable conn t10194
+
+crypto disec conn t10195
+ alg encryption
+ id 10195
+ local ip 172.16.0.1
+ remote ip 172.16.1.194
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.194/32 
+
+crypto disec enable conn t10195
+
+crypto disec conn t10196
+ alg encryption
+ id 10196
+ local ip 172.16.0.1
+ remote ip 172.16.1.195
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.195/32 
+
+crypto disec enable conn t10196
+
+crypto disec conn t10197
+ alg encryption
+ id 10197
+ local ip 172.16.0.1
+ remote ip 172.16.1.196
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.196/32 
+
+crypto disec enable conn t10197
+
+crypto disec conn t10198
+ alg encryption
+ id 10198
+ local ip 172.16.0.1
+ remote ip 172.16.1.197
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.197/32 
+
+crypto disec enable conn t10198
+
+crypto disec conn t10199
+ alg encryption
+ id 10199
+ local ip 172.16.0.1
+ remote ip 172.16.1.198
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.198/32 
+
+crypto disec enable conn t10199
+
+crypto disec conn t10200
+ alg encryption
+ id 10200
+ local ip 172.16.0.1
+ remote ip 172.16.1.199
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.199/32 
+
+crypto disec enable conn t10200
+
+crypto disec conn t10201
+ alg encryption
+ id 10201
+ local ip 172.16.0.1
+ remote ip 172.16.1.200
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.200/32 
+
+crypto disec enable conn t10201
+
+crypto disec conn t10202
+ alg encryption
+ id 10202
+ local ip 172.16.0.1
+ remote ip 172.16.1.201
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.201/32 
+
+crypto disec enable conn t10202
+
+crypto disec conn t10203
+ alg encryption
+ id 10203
+ local ip 172.16.0.1
+ remote ip 172.16.1.202
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.202/32 
+
+crypto disec enable conn t10203
+
+crypto disec conn t10204
+ alg encryption
+ id 10204
+ local ip 172.16.0.1
+ remote ip 172.16.1.203
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.203/32 
+
+crypto disec enable conn t10204
+
+crypto disec conn t10205
+ alg encryption
+ id 10205
+ local ip 172.16.0.1
+ remote ip 172.16.1.204
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.204/32 
+
+crypto disec enable conn t10205
+
+crypto disec conn t10206
+ alg encryption
+ id 10206
+ local ip 172.16.0.1
+ remote ip 172.16.1.205
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.205/32 
+
+crypto disec enable conn t10206
+
+crypto disec conn t10207
+ alg encryption
+ id 10207
+ local ip 172.16.0.1
+ remote ip 172.16.1.206
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.206/32 
+
+crypto disec enable conn t10207
+
+crypto disec conn t10208
+ alg encryption
+ id 10208
+ local ip 172.16.0.1
+ remote ip 172.16.1.207
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.207/32 
+
+crypto disec enable conn t10208
+
+crypto disec conn t10209
+ alg encryption
+ id 10209
+ local ip 172.16.0.1
+ remote ip 172.16.1.208
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.208/32 
+
+crypto disec enable conn t10209
+
+crypto disec conn t10210
+ alg encryption
+ id 10210
+ local ip 172.16.0.1
+ remote ip 172.16.1.209
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.209/32 
+
+crypto disec enable conn t10210
+
+crypto disec conn t10211
+ alg encryption
+ id 10211
+ local ip 172.16.0.1
+ remote ip 172.16.1.210
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.210/32 
+
+crypto disec enable conn t10211
+
+crypto disec conn t10212
+ alg encryption
+ id 10212
+ local ip 172.16.0.1
+ remote ip 172.16.1.211
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.211/32 
+
+crypto disec enable conn t10212
+
+crypto disec conn t10213
+ alg encryption
+ id 10213
+ local ip 172.16.0.1
+ remote ip 172.16.1.212
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.212/32 
+
+crypto disec enable conn t10213
+
+crypto disec conn t10214
+ alg encryption
+ id 10214
+ local ip 172.16.0.1
+ remote ip 172.16.1.213
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.213/32 
+
+crypto disec enable conn t10214
+
+crypto disec conn t10215
+ alg encryption
+ id 10215
+ local ip 172.16.0.1
+ remote ip 172.16.1.214
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.214/32 
+
+crypto disec enable conn t10215
+
+crypto disec conn t10216
+ alg encryption
+ id 10216
+ local ip 172.16.0.1
+ remote ip 172.16.1.215
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.215/32 
+
+crypto disec enable conn t10216
+
+crypto disec conn t10217
+ alg encryption
+ id 10217
+ local ip 172.16.0.1
+ remote ip 172.16.1.216
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.216/32 
+
+crypto disec enable conn t10217
+
+crypto disec conn t10218
+ alg encryption
+ id 10218
+ local ip 172.16.0.1
+ remote ip 172.16.1.217
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.217/32 
+
+crypto disec enable conn t10218
+
+crypto disec conn t10219
+ alg encryption
+ id 10219
+ local ip 172.16.0.1
+ remote ip 172.16.1.218
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.218/32 
+
+crypto disec enable conn t10219
+
+crypto disec conn t10220
+ alg encryption
+ id 10220
+ local ip 172.16.0.1
+ remote ip 172.16.1.219
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.219/32 
+
+crypto disec enable conn t10220
+
+crypto disec conn t10221
+ alg encryption
+ id 10221
+ local ip 172.16.0.1
+ remote ip 172.16.1.220
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.220/32 
+
+crypto disec enable conn t10221
+
+crypto disec conn t10222
+ alg encryption
+ id 10222
+ local ip 172.16.0.1
+ remote ip 172.16.1.221
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.221/32 
+
+crypto disec enable conn t10222
+
+crypto disec conn t10223
+ alg encryption
+ id 10223
+ local ip 172.16.0.1
+ remote ip 172.16.1.222
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.222/32 
+
+crypto disec enable conn t10223
+
+crypto disec conn t10224
+ alg encryption
+ id 10224
+ local ip 172.16.0.1
+ remote ip 172.16.1.223
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.223/32 
+
+crypto disec enable conn t10224
+
+crypto disec conn t10225
+ alg encryption
+ id 10225
+ local ip 172.16.0.1
+ remote ip 172.16.1.224
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.224/32 
+
+crypto disec enable conn t10225
+
+crypto disec conn t10226
+ alg encryption
+ id 10226
+ local ip 172.16.0.1
+ remote ip 172.16.1.225
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.225/32 
+
+crypto disec enable conn t10226
+
+crypto disec conn t10227
+ alg encryption
+ id 10227
+ local ip 172.16.0.1
+ remote ip 172.16.1.226
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.226/32 
+
+crypto disec enable conn t10227
+
+crypto disec conn t10228
+ alg encryption
+ id 10228
+ local ip 172.16.0.1
+ remote ip 172.16.1.227
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.227/32 
+
+crypto disec enable conn t10228
+
+crypto disec conn t10229
+ alg encryption
+ id 10229
+ local ip 172.16.0.1
+ remote ip 172.16.1.228
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.228/32 
+
+crypto disec enable conn t10229
+
+crypto disec conn t10230
+ alg encryption
+ id 10230
+ local ip 172.16.0.1
+ remote ip 172.16.1.229
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.229/32 
+
+crypto disec enable conn t10230
+
+crypto disec conn t10231
+ alg encryption
+ id 10231
+ local ip 172.16.0.1
+ remote ip 172.16.1.230
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.230/32 
+
+crypto disec enable conn t10231
+
+crypto disec conn t10232
+ alg encryption
+ id 10232
+ local ip 172.16.0.1
+ remote ip 172.16.1.231
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.231/32 
+
+crypto disec enable conn t10232
+
+crypto disec conn t10233
+ alg encryption
+ id 10233
+ local ip 172.16.0.1
+ remote ip 172.16.1.232
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.232/32 
+
+crypto disec enable conn t10233
+
+crypto disec conn t10234
+ alg encryption
+ id 10234
+ local ip 172.16.0.1
+ remote ip 172.16.1.233
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.233/32 
+
+crypto disec enable conn t10234
+
+crypto disec conn t10235
+ alg encryption
+ id 10235
+ local ip 172.16.0.1
+ remote ip 172.16.1.234
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.234/32 
+
+crypto disec enable conn t10235
+
+crypto disec conn t10236
+ alg encryption
+ id 10236
+ local ip 172.16.0.1
+ remote ip 172.16.1.235
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.235/32 
+
+crypto disec enable conn t10236
+
+crypto disec conn t10237
+ alg encryption
+ id 10237
+ local ip 172.16.0.1
+ remote ip 172.16.1.236
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.236/32 
+
+crypto disec enable conn t10237
+
+crypto disec conn t10238
+ alg encryption
+ id 10238
+ local ip 172.16.0.1
+ remote ip 172.16.1.237
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.237/32 
+
+crypto disec enable conn t10238
+
+crypto disec conn t10239
+ alg encryption
+ id 10239
+ local ip 172.16.0.1
+ remote ip 172.16.1.238
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.238/32 
+
+crypto disec enable conn t10239
+
+crypto disec conn t10240
+ alg encryption
+ id 10240
+ local ip 172.16.0.1
+ remote ip 172.16.1.239
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.239/32 
+
+crypto disec enable conn t10240
+
+crypto disec conn t10241
+ alg encryption
+ id 10241
+ local ip 172.16.0.1
+ remote ip 172.16.1.240
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.240/32 
+
+crypto disec enable conn t10241
+
+crypto disec conn t10242
+ alg encryption
+ id 10242
+ local ip 172.16.0.1
+ remote ip 172.16.1.241
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.241/32 
+
+crypto disec enable conn t10242
+
+crypto disec conn t10243
+ alg encryption
+ id 10243
+ local ip 172.16.0.1
+ remote ip 172.16.1.242
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.242/32 
+
+crypto disec enable conn t10243
+
+crypto disec conn t10244
+ alg encryption
+ id 10244
+ local ip 172.16.0.1
+ remote ip 172.16.1.243
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.243/32 
+
+crypto disec enable conn t10244
+
+crypto disec conn t10245
+ alg encryption
+ id 10245
+ local ip 172.16.0.1
+ remote ip 172.16.1.244
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.244/32 
+
+crypto disec enable conn t10245
+
+crypto disec conn t10246
+ alg encryption
+ id 10246
+ local ip 172.16.0.1
+ remote ip 172.16.1.245
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.245/32 
+
+crypto disec enable conn t10246
+
+crypto disec conn t10247
+ alg encryption
+ id 10247
+ local ip 172.16.0.1
+ remote ip 172.16.1.246
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.246/32 
+
+crypto disec enable conn t10247
+
+crypto disec conn t10248
+ alg encryption
+ id 10248
+ local ip 172.16.0.1
+ remote ip 172.16.1.247
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.247/32 
+
+crypto disec enable conn t10248
+
+crypto disec conn t10249
+ alg encryption
+ id 10249
+ local ip 172.16.0.1
+ remote ip 172.16.1.248
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.248/32 
+
+crypto disec enable conn t10249
+
+crypto disec conn t10250
+ alg encryption
+ id 10250
+ local ip 172.16.0.1
+ remote ip 172.16.1.249
+ serial 4150
+ local cn 1
+ remote cn 2
+ permit src 10.200.0.0/24 dst 10.100.1.249/32 
+
+crypto disec enable conn t10250
+
