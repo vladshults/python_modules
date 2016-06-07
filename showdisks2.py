@@ -92,10 +92,10 @@ def create_tmp_parts():
 
 def usage():
     print "Usage:"
-    print "Run \"python showdisks.py\" without arguments shows system disks"
-    print "Run \"python showdisks.py n\" with only one numeric argument shows partitions of selected disks"
-    print "Run \"python showdisks.py\" with more than one argument \n shows this message and exit"
-    print "Run \"python showdisks.py n\" with not-applicable for this system disk number \n prints Error from system layer"
+    print "Runing \"python showdisks2.py\" without arguments shows system disks"
+    print "Runing \"python showdisks2.py n\" with only one numeric argument shows partitions of selected disks"
+    print "Runing \"python showdisks2.py\" with more than one argument \n shows this message and exit"
+    print "Runing \"python showdisks2.py n\" with not-applicable for this system disk number \n prints Error from system layer"
 
 
 def main():
