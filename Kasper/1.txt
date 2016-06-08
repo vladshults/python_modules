@@ -1,0 +1,8 @@
+root:x:0:0:root:/root:/bin/bash
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+lp:x:5:6:sync:/sbin:/bin/sync
+lp:x:6:4:shutdown:/sbin:/sbin/shutdown
+lp:x:7:6:halt:/sbin:/sbin/halt
+nobody:x:99:99:Nobody:/:/sbin/nologin
