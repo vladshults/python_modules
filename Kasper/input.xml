@@ -1,0 +1,8 @@
+<root>
+    <updateCommonSettings>
+        <sourceType>KLServers</sourceType>
+        <customSource>
+		</customSource>
+        <useKlServersWhenUnavailable>1</useKlServersWhenUnavailable>
+    </updateCommonSettings>
+</root>
