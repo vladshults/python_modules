@@ -8,7 +8,6 @@ Created on 10 06 2016
 '''
 
 #!/usr/bin/env python
-23
 from random import randrange, choice
 from string import ascii_lowercase as lc
 from sys import maxint
