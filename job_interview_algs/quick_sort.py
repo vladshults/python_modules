@@ -1,3 +1,4 @@
+# complexity O(n ** 2) because the number of tree branches doubles on each pass 
 from random import randint
 
 
