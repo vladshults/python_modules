@@ -1,7 +1,7 @@
 from itertools import cycle
 
 
-def cycled(arr=list()):
+def cycled(arr=None):
     if not arr:
         return list()
     pool = cycle(arr)
