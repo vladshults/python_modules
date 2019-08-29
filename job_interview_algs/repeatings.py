@@ -4,7 +4,7 @@ abba dog abba mother com"""
 
 def secuenced_words(txt):
     """
-        Function identifies and displays the three words
+        Function identifies the three words
         most often repeated as a group, regardless of the
         words order in the group
     """
