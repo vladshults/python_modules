@@ -4,9 +4,9 @@ abba dog abba mother com"""
 
 def secuenced_words(txt):
     """
-        Function identifies the three words
-        most often repeated as a group, regardless of the
-        words order in the group
+        Function identifies the three words most 
+        often repeated as a group, regardless of 
+        the words order in the group
     """
     word_list = txt.split()
     collector = dict()
