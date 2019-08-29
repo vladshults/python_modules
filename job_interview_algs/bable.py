@@ -2,7 +2,7 @@
 import copy
 
 
-def bable_sort(arr=list()):
+def bable_sort(arr=None):
     if not arr:
         return list()
 
