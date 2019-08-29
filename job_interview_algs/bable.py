@@ -1,3 +1,4 @@
+# complexity O(n ** 2) because of a nested loop
 import copy
 
 
