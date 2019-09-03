@@ -1,3 +1,4 @@
+# complexity O(n)
 def bin_sort(binary_list=None):
   if not binary_list:
     return list()
