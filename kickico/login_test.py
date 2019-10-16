@@ -83,7 +83,7 @@ class UpdateRes(unittest.TestCase):
         assert security_error
         driver.close()
         
-    def minimal_login_and_password(self):
+    def minimal_username_and_password(self):
         """
         Username should be at least 3 simbols
         Password should be at least 4 simbols
