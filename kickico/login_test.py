@@ -82,6 +82,19 @@ class UpdateRes(unittest.TestCase):
         security_error = re.search("Please complete the security check to access", html)
         assert security_error
         driver.close()
+        
+    def minimal_login_and_password(self):
+        """
+        Username should be at least 3 simbols
+        Password should be at least 4 simbols
+        according to Registration form
+        """
+        login = "vlad_goreletsky@lexpr.ru"
+        password = "Kpv1"
+        driver = self.perform_login(login=login, password=password)
+        is_profile_button = driver.find_element_by_class_name("profile-nav-avatar").is_enabled()
+        assert is_profile_button
+        driver.close()
 
     def tearDown(self):
         pass
