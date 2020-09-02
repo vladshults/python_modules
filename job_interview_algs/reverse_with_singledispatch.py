@@ -23,14 +23,14 @@ def _(arr):
 
 @reverse_it.register(str)
 def _(text):
-    s = list(text)
-    return ''.join(swap_it(s))
+    arr = list(text)
+    return ''.join(swap_it(arr))
 
 
 @reverse_it.register(tuple)
 def _(t):
-    s = list(t)
-    return tuple(swap_it(s))
+    arr = list(t)
+    return tuple(swap_it(arr))
 
 
 if __name__ == "__main__":
